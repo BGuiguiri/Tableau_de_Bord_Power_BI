@@ -1,2 +1,2 @@
-# Tableau_de_Bord_Power_BI
+# Tableau de Bord Power BI
 Ce projet consiste à concevoir un tableau avec Power BI
